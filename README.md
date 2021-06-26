@@ -13,4 +13,8 @@ This repo contains projects on data analytics and machine learning. The librarie
 * Here i have used **mean_absolute_perentage_error** as a metric to evalute the performace ![alt text](https://i.imgur.com/ndIXERr.jpg "Logo Title Text 1")
 
 ### Discover and Visualise insights 
-  ![alt text](https://github.com/umang299/Data-analytics-and-machine-learning-/blob/main/hist_cycle.JPG "Logo Title Text 1")
+* Below is the histogram viualisation of numeric features
+  ![alt text](https://github.com/umang299/Data-analytics-and-machine-learning-/blob/main/hist_cycle.JPG "Logo Title Text 1" 
+  ![alt text](https://github.com/umang299/Data-analytics-and-machine-learning-/blob/main/box_cycle.JPG"Logo Title Text 1" 
+  
+  
