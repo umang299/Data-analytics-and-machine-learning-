@@ -4,4 +4,4 @@ This repo contains projects on data analytics and machine learning. The librarie
 # Machine learning life cycle 
 
 ### Introduction 
-* The dataset i have used is ( Kaggle california housing prices )[ https://raw.githubusercontent.com/mohitgupta-omg/Kaggle-California-Housing-Prices/master/Data/housing.csv ] 
+* The dataset i have used is Kaggle california housing prices [ https://raw.githubusercontent.com/mohitgupta-omg/Kaggle-California-Housing-Prices/master/Data/housing.csv ] 
