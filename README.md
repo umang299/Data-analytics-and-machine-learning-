@@ -17,5 +17,18 @@ This repo contains projects on data analytics and machine learning. The librarie
   ![alt text](https://github.com/umang299/Data-analytics-and-machine-learning-/blob/main/hist_cycle.JPG "Logo Title Text 1")
   ![alt_text](https://github.com/umang299/Data-analytics-and-machine-learning-/blob/main/box_cycle.JPG "Logo Title Text 1")
 * As we observe in the boxplot, there are outliers present in the features. Hence we choose to pick a model which is not susecptible to outliers 
-  
-  
+### Spit into train, test and validation set 
+* Since the dataset is not large enough i split the data randomly using **train_test_split** with 20% test_size and random_state = 42 
+### Checking for correlation 
+* View the correlation between the features and targets using **.corr()** function. 
+
+### Defining classes to automate operations on features 
+* **Feature_Selection** : To perform statistical analysis on the features and pick features based on p value
+* **CombinedAttribtesAdder** : To combine features and create new features with higher correlation to the target value 
+* **Models** : Define various suitable models within this class 
+* **cross_val** :  Perform cross validation on models and evaluate their performance on the data 
+
+### Create Pipelines 
+* Defining pipeline to perform necessary operaions on the features before feeding it to the model. 
+
+### Finally evaluating and testing the model 
