@@ -10,4 +10,4 @@ This repo contains projects on data analytics and machine learning. The librarie
 
 ### Selecting a perfromance metric 
 * Since the feature data contains outliers its better to choose a metric and model that is less sensitive to outliers and doesnot overfit leading to poor performane on test data 
-* Here i have used **mean_absolute_perentage_error** as a metric to evalute the performace [https://i.imgur.com/ndIXERr.jpg]
+* Here i have used **mean_absolute_perentage_error** as a metric to evalute the performace (https://i.imgur.com/ndIXERr.jpg) 
