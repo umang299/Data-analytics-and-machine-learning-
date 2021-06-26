@@ -15,7 +15,6 @@ This repo contains projects on data analytics and machine learning. The librarie
 ### Discover and Visualise insights 
 * Below is the histogram viualisation of numeric features
   ![alt text](https://github.com/umang299/Data-analytics-and-machine-learning-/blob/main/hist_cycle.JPG "Logo Title Text 1")
-* Boxplot to view outliers
-![Boxplot](https://github.com/umang299/Data-analytics-and-machine-learning-/blob/main/box_cycle.JPG "Logo Title Text 1")
+[Boxplot](https://github.com/umang299/Data-analytics-and-machine-learning-/blob/main/box_cycle.JPG "Logo Title Text 1")
   
   
