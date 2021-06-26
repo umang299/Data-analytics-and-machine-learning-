@@ -32,3 +32,5 @@ This repo contains projects on data analytics and machine learning. The librarie
 * Defining pipeline to perform necessary operaions on the features before feeding it to the model. 
 
 ### Finally evaluating and testing the model 
+
+**Link to my code** : [https://github.com/umang299/Data-analytics-and-machine-learning-/blob/main/ML_LifeCycle.py] 
