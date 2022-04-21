@@ -35,3 +35,12 @@ This repo contains projects on data analytics and machine learning. The librarie
 ### Finally evaluating and testing the model 
 
 **Link to my code** : [https://github.com/umang299/Data-analytics-and-machine-learning-/blob/main/ML_LifeCycle.py] 
+
+# [Santander Customer Satisfaction ](https://github.com/umang299/Data-analytics-and-machine-learning-/blob/main/Santander_Customer_Satisfaction.py.py)
+* Santander is a Spanish multinational corporation bank and financial based
+  company which operates in Europe, North and South America, and also Asia.
+* Provided with a dataset of anonymised variables the problem statement is to conduct descriptive and predictive analysis to understand the most significantly related    variables to customer satisfaction
+* Further used Logistic Regression as base model, improved the performance by trying more complex models like Bagging classifier and Tree Based Models. 
+* Finally conducted Hyper parameter tuning to identify the most suitable set of hyper parameters for the model. 
+* Could not make any conclusion or inference because the data provided was anonymised
+
